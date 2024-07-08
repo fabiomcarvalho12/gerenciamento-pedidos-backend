@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "wallet-bet-backend/node_modules",
+    "test", "dist", "**/*spec.ts"]
+}
